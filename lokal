@@ -1,0 +1,43 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" group-title="INDONESIA",INDOSIAR
+http://210.210.155.37/session/78969830-698e-11ed-8a8e-b5098dcf7386/qwr9ew/s/s04/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/mm/mnc_id_tv.png" group-title="INDONESIA",MNCTV
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d33j155pv2xyba.cloudfront.net/MNCTV_2021.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/11.jpg" group-title="INDONESIA",TRANSTV
+https://delivery.macan.network/stream/id_transtv/playlist.m3u8?token=dshafbo&v=20200807
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/8.jpg" group-title="INDONESIA",ANTV
+http://210.210.155.37/session/af22bfc8-698e-11ed-8225-ae22a0eafb6c/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/6.jpg" group-title="INDONESIA",METROTV
+http://210.210.155.37/session/c26a993e-698e-11ed-bcad-b83fac045b05/uq2663/h/h12/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/12.jpg" group-title="INDONESIA",TRANS7
+https://delivery.macan.network/stream/id_trans7/playlist.m3u8?token=dshafbo&v=20200807
+
+#EXTINF:-1 tvg-logo="https://webcms.mncgroup.com/timthumb.php?zc=3&w=190&h=65&src=/files/rctitv/LOGO%20RCTI.jpg" group-
+
+title="INDONESIA",RCTI
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://d1akid76fpbq4x.cloudfront.net/live/eds/RCTI_2021/live_fta/RCTI_2021.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" group-title="INDONESIA",SCTV
+http://210.210.155.37/session/f5603b64-698e-11ed-a716-86908e2910c9/qwr9ew/s/s03/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/13.jpg" group-title="INDONESIA",NET
+http://210.210.155.37/session/84352c70-68f2-11ed-be4e-81bea8143975/qwr9ew/s/s08/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/23.jpg" group-title="INDONESIA",DAAITV
+http://210.210.155.37/session/a2227224-68f2-11ed-8f05-95a2b4ed9ad6/qwr9ew/s/s13/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/22.jpg" group-title="INDONESIA",RTV
+http://210.210.155.37/session/4335ea08-6969-11ed-ad2a-9e7185ffdb9e/dr9445/h/h10/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="INDONESIA",MOJI TV
+http://210.210.155.37/session/2b7417fc-698f-11ed-b32d-a0aeab271dc2/qwr9ew/s/s41/01.m3u8
+
+
