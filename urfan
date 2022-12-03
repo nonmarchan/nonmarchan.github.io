@@ -56,7 +56,7 @@ http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="BIOSKOP",Hollywood
 http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&tsum=a1f1517d4ea64fd01267905f21d83859&ct=18392
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PZ41FT0T1.jpg" group-title="BIOSKOP",HBO
-https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8?admin=xploreTv_test_user&redirect=true
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P5051J524393.jpg" group-title="BIOSKOP",HBO Hits
 http://198.16.64.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&tsum=6999a99699b097f3af2ef550e5c81f93&ct=19193
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PZ41G6320-L.jpg" group-title="BIOSKOP",HBO Signature
