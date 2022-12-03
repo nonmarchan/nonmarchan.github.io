@@ -72,7 +72,7 @@ http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&tsum=9b0d2efb
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426162934N2.jpg" group-title="TAIWAN",FTV
 http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&tsum=ab93fcdf581cc3f483e1ceede13312ce&ct=17990
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="TAIWAN",SET
-http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb&ct=17874
+http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&tsum=15393958be0bf6c0905bbb578dad1240&ct=19193
 #EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4211Q959649.jpg" group-title="TAIWAN",GTV Drama
 http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&tsum=d9af89e299560350336e22c1418e6b54&ct=17874
 #EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2201930430-L.jpg" group-title="TAIWAN",LTV Drama
