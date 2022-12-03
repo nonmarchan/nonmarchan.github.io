@@ -77,7 +77,7 @@ http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=MBFB2351438523514385&tsum
 http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&tsum=d9af89e299560350336e22c1418e6b54&ct=17874
 #EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2201930430-L.jpg" group-title="TAIWAN",LTV Drama
 http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&tsum=2d2c4d6761fa92d63b97c0fe787007cb&ct=17874
-#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZG5444bX.jpg" group-title="TAIWAN",EyeTV
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZG5444bX.jpg" group-title="TAIWAN",EyeTV Drama
 http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586&ct=17874
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title="TAIWAN",StarMovies
 http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb&ct=17874
