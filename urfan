@@ -1,0 +1,89 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PS022062L02.jpg" group-title="Siaran TV",Indosiar
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P3121530010-L.jpg" group-title="Siaran TV",Net.
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/uq2663/h/h06/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q12R22320418.jpg" group-title="Siaran TV",TransTV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w167122878_b544100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q12R15201917.jpg" group-title="Siaran TV",ANTV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PFR03421T9.jpg" group-title="Siaran TV",Metro TV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1800784581_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q003223T3340.jpg" group-title="Siaran TV",RTV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q003212A2C9.jpg" group-title="Siaran TV",Trans7
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+https://trans7.kdb.co.id/TRANS7/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1ZZ5233146318.jpg" group-title="Siaran TV",SCTV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z42Q1543SB.jpg" group-title="Siaran TV",Daai TV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Siaran TV",MOJI TV
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s41/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2006232302250-L.jpg" group-title="Siaran TV" ,Love Nature
+https://bamus-eng-roku.amagi.tv/playlist404p.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/19/1-1Z3161HK94D.jpg" group-title="Siaran TV",Crime Investigation
+http://198.16.64.10:8278/ci_twn/playlist.m3u8?tid=m2d09f7473c8214224973&tsum=eb2ddbfed683e40621e2b023bf017892&ct=17877
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q00Q44S9149.jpg" group-title="BIOSKOP",Celestial HK
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/dr9445/h/h14/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P92H244530-L.jpg" group-title="BIOSKOP",CCM HK
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s31/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/21/1-21050Q524470-L.jpg" group-title="BIOSKOP",TVN Korea
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-20021Q32Z50-L.jpg" group-title="BIOSKOP",Kplus Korea
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/20/1-2002031615560-L.jpg" group-title="BIOSKOP",Thrill Asia
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/109.jpg" group-title="BIOSKOP",MyCinema Asia
+#EXTVLCOPT:http-user-agent=Lavf/56.15.102
+http://playlist.urfan.web.id/uq2663/h/h193/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/s_bc/bc562f7a0c62d66e2cea2920b42dc33c.png" group-title="BIOSKOP",Cinema Barat
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/hh/hollywood_movie_channel.png" group-title="BIOSKOP",Hollywood
+http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&tsum=a1f1517d4ea64fd01267905f21d83859&ct=18392
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PZ41FT0T1.jpg" group-title="BIOSKOP",HBO
+https://streamer12.xploretv.si/qdcnm4/__cl/cg:prod/__c/A1_SI_HBOHD_ott/__op/dash-default/__dci/__f/index.m3u8
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P5051J524393.jpg" group-title="BIOSKOP",HBO Hits
+http://198.16.64.10:8278/hbohead_twn/playlist.m3u8?tid=MCDC6663932966639329&tsum=6999a99699b097f3af2ef550e5c81f93&ct=19193
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PZ41G6320-L.jpg" group-title="BIOSKOP",HBO Signature
+http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&tsum=3d127801d49fa098b4118400117b4fbb&ct=17874
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1PZ41G2540-L.jpg" group-title="BIOSKOP",HBO Family
+http://198.16.64.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&tsum=73f6f540497de9a5615b9bd55bec8853&ct=18337
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P3101123210-L.jpg" group-title="TAIWAN",TTV
+http://198.16.64.10:8278/ttv_taiwan/playlist.m3u8?tid=mdea1ba75c9e516139101&tsum=95f1742d36f959fe6e241587a4f8e970&ct=17874
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/18/1-1PG41144430-L.jpg" group-title="TAIWAN",OTT
+http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&tsum=ea5304d5140e9a3d2a32aece896feeed&ct=18336
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P3101213540-L.jpg" group-title="TAIWAN",CTS
+http://198.16.64.10:8278/ctshd_twn/playlist.m3u8?tid=m760743cf1f5e&tsum=9b0d2efb292253075aa4ec25cc439b81&ct=18335
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P426162934N2.jpg" group-title="TAIWAN",FTV
+http://198.16.64.10:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&tsum=ab93fcdf581cc3f483e1ceede13312ce&ct=17990
+#EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1P61115255U94.jpg" group-title="TAIWAN",SET
+http://198.16.64.10:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&tsum=3570a8198ca0fb7ebb803807e38b33fb&ct=17874
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z4211Q959649.jpg" group-title="TAIWAN",GTV Drama
+http://198.16.64.10:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&tsum=d9af89e299560350336e22c1418e6b54&ct=17874
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/allimg/19/1-1Z2201930430-L.jpg" group-title="TAIWAN",LTV Drama
+http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&tsum=2d2c4d6761fa92d63b97c0fe787007cb&ct=17874
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1ZZG5444bX.jpg" group-title="TAIWAN",EyeTV
+http://198.16.64.10:8278/eyetvxiju_twn/playlist.m3u8?tid=m379e8846d31b14432367&tsum=2c4c2acd16a5a5e00797ad6f4c4cb586&ct=17874
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/star_chinese_movies_se_asia.png" group-title="TAIWAN",StarMovies
+http://198.16.64.10:8278/xingwei_movie/playlist.m3u8?tid=ma80888ed462f18082236&tsum=2824e7b9d4ec19ce7b4f8f69d23d7ceb&ct=17874
+#EXTINF:-1 tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z11QRI2216.jpg" group-title="TAIWAN",MeiYa Movies
+http://198.16.64.10:8278/meiyamovie_twn/playlist.m3u8?tid=mcfe3e109029013892155&tsum=164baeda6ab6c4160f2775128cfc6f4e&ct=17874
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ll/ls_time_movie.png" group-title="TAIWAN",LST Movies
+http://198.16.64.10:8278/cb7a1fec69/playlist.m3u8?tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5&ct=18335
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/gg/great-wall-elite-cn.png" group-title="TAIWAN",GreatWall Movies
+http://198.16.64.10:8278/chcfamily/playlist.m3u8?tid=ME7E3282776332827763&tsum=c098f25f9c140478d2a814b22a7ccbd3&ct=18393
