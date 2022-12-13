@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1,公
+#EXTINF:-1,ott
 http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0&ct=17990
+#EXTINF:-1,ott2
 http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&tsum=56b3e3b150f4fcbc1877e081b313bcd4&ct=19193
+#EXTINF:-1,ott3
 http://198.16.64.10:8278/ctv_taiwan/playlist.m3u8?tid=m33b41eb996d0&tsum=ea5304d5140e9a3d2a32aece896feeed&ct=18336
