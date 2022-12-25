@@ -321,26 +321,14 @@ http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/85681
 #EXTINF:-1 ,HBO 3ⓧ SD
 http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/85684
 
-#EXTINF:-1 ,0
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13500
-#EXTINF:-1 ,1
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13501
-#EXTINF:-1 ,2
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13502
-#EXTINF:-1 ,3
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13503
-#EXTINF:-1 ,4
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13504
-#EXTINF:-1 ,5
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13505
-#EXTINF:-1 ,6
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13506
-#EXTINF:-1 ,7
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13507
-#EXTINF:-1 ,8
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13508
-#EXTINF:-1 ,9
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13509
+#EXTINF:-1 ,HBO
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/51605
 
+#EXTINF:-1 ,HBO Hits
+http://daddyserver.com/Jacky_Jacky/TWsW8A8MgZaF/13511
 
+#EXTINF:-1 ,HBO Signature
+http://daddyserver.com:80/Jacky_Jacky/TWsW8A8MgZaF/13510
 
+#EXTINF:-1 ,HBO Family
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13512
