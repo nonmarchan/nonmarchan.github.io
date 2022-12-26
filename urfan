@@ -29,42 +29,23 @@ http://102.165.51.223:8080/Jacky_Jacky/TWsW8A8MgZaF/13510?token=QhNcUUpYElsXDwZV
 #EXTINF:-1 ,HBO Family
 http://102.165.51.223:8080/Jacky_Jacky/TWsW8A8MgZaF/13512?token=QhNcUUpYElsXXQtWBQkFAFtWU1FSAVFUBQBTUwcHB1UKAQxTWwVUBQEbH0QXTEEBAgttXVQTDwFSUwcAGxJFF1xDa1ldEgpDBAEKVUYUERAKC1cWCgADB1BfDgYDBwhIG0FdVBsKXhRZVR9EAUBHAREIU1hvVVBGCAVTEA1eRQhVHRZfV29UBFhYXQJGAhFVQUoQXUNBFwpDIl9VXkRRCHZSUVFXEHwtdhsfRAZRRxYCElcWCl9AXA1KFFFYRV4QS0gWChtlY0MZG1YeEF1dFwoJXBYKE0FDQ0oUW0RvQgFKRUZVWF1VExcDEVdGFBEJAh5tV19fW1UCEl9dWUMSXhsEBBIVEl0OW1BHCRZnQw0HRAhaRV1ZTQ==
 
-#EXTINF:-1 ,HBO Mundiⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/61080
+#EXTINF:-1, HBO east
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/705
+#EXTINF:-1, HBO west
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/700
+#EXTINF:-1, HBO signature
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/702
+#EXTINF:-1, HBO Family
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/703
 
-#EXTINF:-1 ,HBO Popⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/61055
+#EXTINF:-1 , HBOⓧ HD
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92009
+#EXTINF:-1 ,HBO Fanilyⓧ HD OFFLINE
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92046
+#EXTINF:-1 ,HBO Hitsⓧ HD OFFLINE
+http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92059
 
-#EXTINF:-1 ,HBO Signatureⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/61022
 
-#EXTINF:-1 ,HBO Familyⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/51637
 
-#EXTINF:-1 ,HBO Popⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/51679
 
-#EXTINF:-1 ,HBO Signatureⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/51636
 
-#EXTINF:-1 ,HBO Xtremeⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/51617
-
-#EXTINF:-1 ,HBO 1ⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/85685
-
-#EXTINF:-1 ,HBO 2ⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/108206
-
-#EXTINF:-1 ,HBO 3ⓧ SD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/85684
-
-#EXTINF:-1 tvg-name="HBO CINEMAXⓧ OFFLINE" tvg-logo="http://daddyserver.com:8080/images/d870a256a519d0c6cbabe2ad24a2f4c4.png" group-title="ID",HBO CINEMAXⓧ OFFLINE
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13514
-#EXTINF:-1 tvg-name="HBO FAMILYⓧ" tvg-logo="http://daddyserver.com:8080/images/ab7288947585505b7e4b67f1932129a8.png" group-title="ID",HBO FAMILYⓧ
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13512
-#EXTINF:-1 tvg-name="HBO HITSⓧ" tvg-logo="http://daddyserver.com:8080/images/731da5f8d3775a82f333ef8f6a48c66f.png" group-title="ID",HBO HITSⓧ
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13511
-#EXTINF:-1 tvg-name="HBO REDⓧ" tvg-logo="http://daddyserver.com:8080/images/88bb890688497241fcdc2d26d53c5e46.png" group-title="ID",HBO REDⓧ
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/13513
-#EXTINF:-1 tvg-name="HBO Signatureⓧ" tvg-logo="http://daddyserver.com:8080/images/e93c7611683b49a08b8b7004acff9376.png" group-title="ID",HBO Signatureⓧ
