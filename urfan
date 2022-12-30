@@ -29,21 +29,26 @@ http://102.165.51.223:8080/Jacky_Jacky/TWsW8A8MgZaF/13510?token=QhNcUUpYElsXDwZV
 #EXTINF:-1 ,HBO Family
 http://102.165.51.223:8080/Jacky_Jacky/TWsW8A8MgZaF/13512?token=QhNcUUpYElsXXQtWBQkFAFtWU1FSAVFUBQBTUwcHB1UKAQxTWwVUBQEbH0QXTEEBAgttXVQTDwFSUwcAGxJFF1xDa1ldEgpDBAEKVUYUERAKC1cWCgADB1BfDgYDBwhIG0FdVBsKXhRZVR9EAUBHAREIU1hvVVBGCAVTEA1eRQhVHRZfV29UBFhYXQJGAhFVQUoQXUNBFwpDIl9VXkRRCHZSUVFXEHwtdhsfRAZRRxYCElcWCl9AXA1KFFFYRV4QS0gWChtlY0MZG1YeEF1dFwoJXBYKE0FDQ0oUW0RvQgFKRUZVWF1VExcDEVdGFBEJAh5tV19fW1UCEl9dWUMSXhsEBBIVEl0OW1BHCRZnQw0HRAhaRV1ZTQ==
 
-#EXTINF:-1, HBO east
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/705
-#EXTINF:-1, HBO west
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/700
-#EXTINF:-1, HBO signature
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/702
-#EXTINF:-1, HBO Family
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/703
+#EXTINF:-1 tvg-id="RCTI.Id" tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="National TV",RCTI+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://h-rcti.rctiplus.id/RCTI2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
 
-#EXTINF:-1 , HBOⓧ HD
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92009
-#EXTINF:-1 ,HBO Fanilyⓧ HD OFFLINE
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92046
-#EXTINF:-1 ,HBO Hitsⓧ HD OFFLINE
-http://daddyserver.com:8080/Jacky_Jacky/TWsW8A8MgZaF/92059
+#EXTINF:-1 tvg-id="GTV.Id" tvg-logo="https://cdn.ksa.my.id/gtv.png" group-title="National TV",GTV+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d-gtv.rctiplus.id/GTV2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+
+#EXTINF:-1 tvg-id="MNCTV.Id" tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="National TV",MNCTV+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+
+#EXTINF:-1 tvg-id="iNews.Id" tvg-logo="https://cdn.ksa.my.id/inews.png" group-title="National TV",iNewsTV+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+#EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
+https://d-inews.rctiplus.id/INEWS2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+
 
 
 
