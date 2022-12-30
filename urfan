@@ -45,7 +45,64 @@ https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d-inews.rctiplus.id/INEWS2022.m3u8
 
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/70431
 
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/18267
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1609
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/3581
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1612
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/1614
+
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74926
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/74928
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/78076
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79933
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79934
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79936
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79937
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79938
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79939
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79942
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79943
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79944
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79946
+
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/79947
+#EXTINF:0 tvg-id="HBOIndonesia.id" tvg-name="HBOIndonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png" group-title="Movies",HBO
+http://gunslingertv.org:8080/CHAOS-MEDIA_WORLD2/KC6uF9Dfp6/87082
 
 
 
