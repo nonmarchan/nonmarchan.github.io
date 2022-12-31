@@ -40,3 +40,10 @@ https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|Referer=https://www.rctiplus.com/|Us
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTVLCOPT:http-user-agent=AppleWebKit/537.36 (KHTML, like Gecko)
 https://d-inews.rctiplus.id/INEWS2022.m3u8|Referer="https://www.rctiplus.com/"|User-Agent=AppleWebKit/537.36 (KHTML, like Gecko)
+
+#EXTINF:-1 tvg-id="undefined" group-title="RCTI PLUS" tvg-logo="https://i.postimg.cc/655CjG1k/download-2022-12-27-T225644-554.jpg",MNC TV
+https://d-mnctv.rctiplus.id/MNCTV_2021-avc1_600000=5-mp4a_96000=2.m3u8
+
+#EXTINF:-1 tvg-id="undefined" group-title="RCTI PLUS" tvg-logo="https://i.postimg.cc/8cbBFRXH/download-2022-12-27-T225517-803.png",RCTI TV
+https://h-rcti.rctiplus.id/RCTI2022.m3u8
+
