@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PS022062L02.jpg" group-title="Siaran TV",Indosiar
 http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/mnctv.png" group-title="Global",MNCTV
+https://d-mnctv.rctiplus.id/MNCTV_2021.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/allimg/18/1-1P3121530010-L.jpg" group-title="Siaran TV",Net.
 http://playlist.urfan.web.id/uq2663/h/h06/01.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q12R22320418.jpg" group-title="Siaran TV",TransTV
@@ -9,6 +11,8 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w167122878_b544100_s
 http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1PFR03421T9.jpg" group-title="Siaran TV",Metro TV
 https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1800784581_b1128000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.ksa.my.id/rcti.png" group-title="Global",RCTI
+https://h-rcti.rctiplus.id/RCTI2022.m3u8|Referer=https://www.rctiplus.com/|User-Agent=AppleWebKit/537.36
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q003223T3340.jpg" group-title="Siaran TV",RTV
 http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
 #EXTINF:-1 tvg-logo="https://nettvpro.live/uploads/18/1-1Q003212A2C9.jpg" group-title="Siaran TV",Trans7
@@ -19,5 +23,3 @@ http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
 http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
 #EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Siaran TV",MOJI TV
 http://playlist.urfan.web.id/qwr9ew/s/s41/01.m3u8
-
-
