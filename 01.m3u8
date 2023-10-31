@@ -1,3 +1,6 @@
 #EXTM3U
-#EXT-X-STREAM-INF:AVERAGE-BANDWIDTH=5740000,BANDWIDTH=7160000,RESOLUTION=1920x1080,FRAME-RATE=25.000,CODECS="avc1.4d001f,mp4a.40.2",CLOSED-CAPTIONS=NONE,AUDIO="aud1"
-http://103.166.27.2:8112/play/a016
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=994885&extension=m3u8
+##http://protv.fun:80/play/live.php?mac=00:1a:79:50:63:9e&stream=994885&extension=m3u8&play_token=xdbt7BgLik
+##http://103.166.27.2:8112/play/a016
