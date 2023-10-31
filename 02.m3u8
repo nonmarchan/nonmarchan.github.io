@@ -1,6 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=3000000,FRAME-RATE=25.000,CODECS="avc1.4D4028,mp4a.40.2"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,FRAME-RATE=25.000,CODECS="avc1.4D4028,mp4a.40.2"
 http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
 ##http://4ksuper.live:80/play/live.php?mac=00:1a:79:50:63:9e&stream=683098&extension=m3u8&play_token=Z0j5OUmobm
-##http://202.150.172.59/MNCTV/tracks-v1a1.mono.m3u8
