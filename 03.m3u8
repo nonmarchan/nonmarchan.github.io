@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://103.166.27.2:8112/play/a01b/index.m3u8
+https://video.detik.com/transtv/smil:transtv.smil/chunklist_w988572694_b744100_sleng.m3u8
+##http://103.166.27.2:8112/play/a01b/index.m3u8
