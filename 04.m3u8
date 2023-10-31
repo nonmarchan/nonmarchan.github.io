@@ -1,6 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,FRAME-RATE=25.000,CODECS="avc1.4d4028,mp4a.40.2"
+#EXT-X-STREAM-INF:PROGRAM-ID=1, BANDWIDTH=3000000
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
-##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683153&extension=m3u8
-##http://103.166.27.2:8112/play/a01g/index.m3u8
