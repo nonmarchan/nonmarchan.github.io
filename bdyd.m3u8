@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
+http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164&ct=17874
+##http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=ME2E2598823625988236&ct=19656&tsum=8687cc3bfbb55426eca0cc0ddb0e9546
+##http://198.16.100.90:8278/badafirst/playlist.m3u8?tid=MEBE9784735497847354&ct=19656&tsum=9b877b8dbd2e912f011ceb60c1df0b2c
