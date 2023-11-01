@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://4ksuper.live:80/play/live.php?mac=00:1a:79:50:63:9e&stream=683098&extension=m3u8&play_token=Z0j5OUmobm
+http://198.16.100.90:8278/Mnctv/playlist.m3u8?tid=MDCD3312687833126878&ct=19662&tsum=9324b169dd9f0165a4ccbc9045a9ea39
+##http://4ksuper.live:80/play/live.php?mac=00:1a:79:50:63:9e&stream=683098&extension=m3u8&play_token=Z0j5OUmobm
 ##http://202.150.172.59/MNCTV/tracks-v1a1/mono.m3u8
