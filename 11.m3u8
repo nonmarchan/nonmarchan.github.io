@@ -1,4 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683121&extension=m3u8
+http://198.16.100.90:8278/Gtv/playlist.m3u8?tid=MCEC8095367480953674&ct=19662&tsum=5f19b96762cdd981192d083a8fade963
+##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683121&extension=m3u8
