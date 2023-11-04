@@ -1,4 +1,5 @@
 #EXTM3U
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
 http://198.16.100.90:8278/Indosiar/playlist.m3u8?tid=ME2E6560375165603751&ct=19662&tsum=ea0fcd83d40dce1eb26d2e8c879209e6
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=994885&extension=m3u8
 ##http://protv.fun:80/play/live.php?mac=00:1a:79:50:63:9e&stream=994885&extension=m3u8&play_token=xdbt7BgLik
