@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
-##http://103.84.206.6/stream/17/andithomas.m3u8?username=tXBji29OWu&password=Lixk1wtAeT
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1805709,RESOLUTION=1024x576,FRAME-RATE=25.000
+http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
