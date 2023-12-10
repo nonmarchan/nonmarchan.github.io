@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:network-caching=2000,CODECS="avc1.640028"
+#EXT-X-STREAM-INF:BANDWIDTH=5080000,CODECS="avc1.640028"
 http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8
