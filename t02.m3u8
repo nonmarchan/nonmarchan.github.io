@@ -1,5 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=29.000,CODECS="avc1.640028"
-http://ali.hlspull.yximgs.com/live/twlivephzwfpzwvnzfdlsetfzzzzszsftewzhvcbzzfdzuolzbms.flv
+#EXT-X-STREAM-INF:PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=29,CODECS="avc1.640028"
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=m15b424641a89&ct=18335&tsum=ba82cdbfb8253c45a13df5354e6d0dbc
